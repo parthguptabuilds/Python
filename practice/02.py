@@ -1,0 +1,2 @@
+name="parth"
+print(name)
